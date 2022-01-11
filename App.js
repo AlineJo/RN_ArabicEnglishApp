@@ -1,7 +1,7 @@
 
 import React from 'react';
 import type { Node } from 'react';
-import { SafeAreaView, StyleSheet, Text, View, Pressable } from 'react-native';
+import { StyleSheet, Text, View, Pressable } from 'react-native';
 
 //these imports are important for translation !
 
